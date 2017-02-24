@@ -1,6 +1,4 @@
-# react-boilerplate - Boilerplate for "SurviveJS - React"
-
-See [SurviveJS - React](http://survivejs.com/react/introduction/) for the book.
+# react-boilerplate
 
 > If you use Vagrant or Cloud9, you'll need to tweak the development server port as instructed in **webpack.parts.js**.
 
